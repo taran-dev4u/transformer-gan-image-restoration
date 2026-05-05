@@ -8,28 +8,38 @@ This project focuses on restoring missing or damaged regions in images. The meth
 
 The name uses image restoration because it is easier for recruiters to understand than only saying inpainting, while still keeping the technical direction visible.
 
-## Problem
+## Project Objective
 
 Traditional inpainting methods can handle small missing areas but often fail on larger or more semantic gaps. GAN-based methods can improve visual sharpness, but they can also lose global structure. This project studies a hybrid direction to balance both.
 
-## Scope
+## Completed Scope
 
 - Image inpainting problem framing
 - Transformer and GAN architecture discussion
-- Dataset and evaluation planning
+- Dataset and evaluation design
 - Presentation and final report materials
 
-## Approach
+## Workflow
 
 - Studied classical, convolutional, GAN-based, and transformer-based restoration methods
 - Focused on facial image restoration where artifacts are easier to inspect
 - Connected reconstruction metrics with visual review
-- Prepared the project for model code, masks, outputs, and evaluation results
+- Organized the project around model code, masks, outputs, and evaluation results
 
-## Existing Work
+## Deliverables
 
 - Final project report for enhanced image inpainting
 - Presentation notes and slide material for the Transformer-GAN restoration method
+
+## Repository Contents
+
+- `README.md` - project overview, workflow, deliverables, and skills summary
+- `project-files/masters/dl_project_report_taranmam_veerasa2_sjupalli.pdf` - project artifact
+- `project-files/masters/FINAL_dl_project_report_taranmam_veerasa2_sjupalli.pdf` - project artifact
+- `project-files/masters/final_projectDL.pdf` - project artifact
+- `project-files/masters/dl_FINAL_ppt_content.pdf` - project artifact
+- `project-files/masters/project_ppt_taranmam_veerasa2_sjupalli.pdf` - project artifact
+- `project-files/README.md` - manifest of uploaded project materials
 
 ## Contribution
 
@@ -43,14 +53,6 @@ Contributed to research framing, architecture explanation, report writing, and p
 - Computer vision
 - Image restoration
 - Model evaluation
-
-## Next Update
-
-- Add model code and training configuration
-- Add before-mask-after restoration examples
-- Add evaluation metrics such as PSNR and SSIM
-
-The implementation files are stored separately and will be added after the source folders are reviewed and organized.
 
 ## Topics
 
