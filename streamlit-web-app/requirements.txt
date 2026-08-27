@@ -1,0 +1,11 @@
+streamlit
+streamlit-drawable-canvas
+torch
+torchvision
+Pillow
+scikit-image
+lpips 
+torch 
+torchvision 
+altair
+cv2
